@@ -2,6 +2,7 @@
 
 - Write step-by-step instructions for building a Python f-string
 - TIP: Start each step with a verb (an action word)
+- Write instructions that are brief and specific
 - Use the words from the Word Bank in your explanations
 - Include sample code for each step
 - Try to write your instructions in 5 - 7 steps
