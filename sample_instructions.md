@@ -10,11 +10,11 @@ message
 ```python
 message = 'Python is my favorite programming language!'
 ```
-3. Type the name of the variable in the parentheses following the word print in the `print( )` function.
+4. Type the name of the variable in the parentheses following the word print in the `print( )` function.
 ```python
 print(message)
 ```
-4. When you run your script, your output will look like this:
+5. When you run your script, your output will look like this:
 ```python
 Python is my favorite programming language!
 ```
