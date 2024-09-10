@@ -2,10 +2,15 @@
 
 - Write step-by-step instructions for building a Python f-string
 - TIP: Start each step with a verb (an action word)
+- Use the words from the Word Bank in your explanations
 - Include sample code for each step
 - Try to write your instructions in 5 - 7 steps
 - Delete the markdown for any steps you don't use
 - Copy and paste the web address (URL) of your copy of this repository to Google Classroom when you are finished with this activity
+
+## Word Bank
+> `print( )` function, 
+
 ---
 1. Step 1...
 ```python
