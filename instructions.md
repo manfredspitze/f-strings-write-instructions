@@ -4,6 +4,7 @@
 - TIP: Start each step with a verb (an action word)
 - Include sample code for each step
 - Try to write your instructions in 5 - 7 steps
+- Delete the markdown for any steps you don't use
 - Copy and paste the web address (URL) of your copy of this repository to Google Classroom when you are finished with this activity
 ---
 1. Step 1...
