@@ -12,32 +12,32 @@
 # Do not delete the word python inside the backticks
 ```
 2. Step 2...
-```
+```python
 # Add code for this step between the triple backticks
 # Do not delete the word python inside the backticks
 ```
 3. Step 3...
-```
+```python
 # Add code for this step between the triple backticks
 # Do not delete the word python inside the backticks
 ```
 4. Step 4...
-```
+```python
 # Add code for this step between the triple backticks
 # Do not delete the word python inside the backticks
 ```
 5. Step 5...
-```
+```python
 # Add code for this step between the triple backticks
 # Do not delete the word python inside the backticks
 ```
 6. Step 6...
-```
+```python
 # Add code for this step between the triple backticks
 # Do not delete the word python inside the backticks
 ```
 7. Step 7...
-```
+```python
 # Add code for this step between the triple backticks
 # Do not delete the word python inside the backticks
 ```
