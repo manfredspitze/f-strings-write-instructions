@@ -9,7 +9,7 @@
 - Copy and paste the web address (URL) of your copy of this repository to Google Classroom when you are finished with this activity
 
 ## Word Bank
-> `print( )` function, 
+> `print( )` function, variable, assignment operator, value, lowercase f, single quotation marks, double quotation marks, curly braces, placeholder
 
 ---
 1. Step 1...
